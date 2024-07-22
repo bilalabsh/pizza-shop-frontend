@@ -1,0 +1,41 @@
+{
+    "pizzas": [
+      {
+        "imageSrc": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+        "pizzaName": "Non Veg Supreme",
+        "prices": { "small": 200, "medium": 300, "large": 400 },
+        "description": "A delicious pizza topped with various non-veg items."
+      },
+      {
+        "imageSrc": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+        "pizzaName": "Golden Corn Pizza",
+        "prices": { "small": 180, "medium": 280, "large": 380 },
+        "description": "A golden corn pizza with sweet corn and mozzarella cheese."
+      },
+      {
+        "imageSrc": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+        "pizzaName": "Jalapeno & Red Paprika Pizza",
+        "prices": { "small": 190, "medium": 290, "large": 390 },
+        "description": "Spicy jalapenos and sweet red paprika on a cheesy base."
+      },
+      {
+        "imageSrc": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+        "pizzaName": "Mexican Green Wave",
+        "prices": { "small": 210, "medium": 310, "large": 410 },
+        "description": "A wave of Mexican flavors with green veggies."
+      },
+      {
+        "imageSrc": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+        "pizzaName": "Double Cheese Margherita Pizza",
+        "prices": { "small": 220, "medium": 320, "large": 420 },
+        "description": "Loaded with double cheese for the ultimate cheese lover."
+      },
+      {
+        "imageSrc": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+        "pizzaName": "Italian Veg",
+        "prices": { "small": 230, "medium": 330, "large": 430 },
+        "description": "An Italian classic with fresh veggies and herbs."
+      }
+    ]
+  }
+  
